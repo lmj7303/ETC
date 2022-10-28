@@ -1,0 +1,10 @@
+{
+    "name":"npm_mj",
+    "description":"my pakage for test",
+    "version":"0.0.1",
+    "main":"index.js",
+    "scripts":{
+        "test":"echo",
+        "Error":
+    }
+}
